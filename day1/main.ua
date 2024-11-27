@@ -24,7 +24,7 @@ Lettered ← (
 )
 
 Part₂ ← (
-  °□/+⍚(+×10°⊟∵(˜get Decode) Lettered ?) ⊜□⊸(≠@\n)
+  °□/+⍚(+×10°⊟∵(˜get Decode) Lettered) ⊜□⊸(≠@\n)
 )
 
 # ====== TESTS =======
